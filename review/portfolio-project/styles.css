@@ -1,0 +1,67 @@
+
+* {
+    overflow: auto;
+}
+nav {
+    text-align: center;
+    padding: 10px;
+    text-decoration: white;
+}
+nav a{
+    padding: 7px;
+    border: 3px solid black;
+    margin: right;
+    border-radius: 20px;
+    background: sandybrown;
+    text-decoration: none;
+    color: #faf6f6;
+}
+h1 {
+    font-family: 'Poppins';
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Poppins';
+}
+footer {
+    text-align: center;
+}
+p {
+    font-family: 'Poppins';
+    font-size: larger;
+}
+figcaption {
+    font-family: 'Poppins';
+}
+img {
+    border-radius: 20px;
+}
+body {
+    background-color: burlywood;
+}
+.center {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.img {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+aside img {
+    width: 100%;
+}
+figure {
+    width: 30%;
+    float: left;
+}
+article img {
+    width: 100%;
+}
+
+/*all images that were used in this portfolio are from pixabay.com *
