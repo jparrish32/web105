@@ -1,0 +1,32 @@
+form{
+    background: var(--dark-primary-color);
+    padding: 35px;
+    width: 25%;
+    margin: 20px auto;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+body {
+    background-color: #0095a8;
+}
+.container{
+    width: 90%;
+    margin: 20px auto;
+    overflow: auto;
+    max-width: 900px;
+    background-color: #26c6da;
+}
+input[type=text] {
+  border: 2px solid blue;
+  border-radius: 6px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+}
