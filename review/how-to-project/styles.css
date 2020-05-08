@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #df545f;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+section {
+    width: 60%;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #df545f;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+article {
+    width: 100%;
+    height: auto;
+    background-color: rgba(128, 128, 128, 0.575)
+}
+
+.clear-float {
+    clear: both;
+}
+
+.article-contents {
+    float: left;
+    width: 50%;
+}
+
+article img {
+    width: 50%;
+}
+
+img {
+    padding: 5px;
+    border-radius: 5px;
+    float: right;
+    background: #373737;
+}
+body {
+    font-family: 'Raleway','Merriweather','Nunito';
+    background-color: rgba(0, 0, 0, 0.76);
+}
+h1 {
+    text-align: center;
+}
+.container {
+    background: #faf6f6;
+    width: 70%;
+    margin: 85px auto;
+    overflow: auto;
+    padding: 25px;
+}
+footer {
+    text-align: center;
+}
+nav a{
+    padding: 7px;
+    border: 3px solid  rgba(128, 128, 128, 0.575);
+    margin: right;
+    border-radius: 20px;
+    background: #8e8e8e7a;
+    text-decoration: none;
+    color: #faf6f6;
+}
+nav {
+    text-align: center;
+}
+p {
+    color: whitesmoke;
+}
+figure {
+    display: inline-block;
+    margin: 10px; 
+}
+figure figcaption {
+    text-align: center;
+}
+
+ /* All images were take from https://pixabay.com/photos/ 
+ All videos used were taken from youtube \*
